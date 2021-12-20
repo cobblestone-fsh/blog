@@ -1,0 +1,34 @@
+{ 
+    "social": [
+        {
+            "name": "Poast",
+            "icon": "poast-icon.png",
+            "url": "https://poa.st/@cobblestone_prude"
+        },
+        {
+            "name": "Telegram",
+            "icon": "telegram-icon.png",
+            "url": "https://t.me/cobblestone_chat"
+        },
+        {
+            "name": "Gab",
+            "icon": "gab-icon.png",
+            "url": "https://gab.com/cobblestone_prude"
+        },
+        {
+            "name": "Hyphen-Report",
+            "icon": "hyphen-report.jpg",
+            "url": "https://www.hyphen-report.com/author/cobblestone-prude/"
+        },
+        {
+            "name": "GitHub",
+            "icon": "github-icon.png",
+            "url": "https://github.com/cobblestone-fsh"
+        },
+        {
+            "name": "E-Mail",
+            "icon": "mail-icon.svg",
+            "url": "mailto:cobblestone.age.prude@gmail.com"
+        }
+    ]
+}

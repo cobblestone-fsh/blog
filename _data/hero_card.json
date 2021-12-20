@@ -1,0 +1,22 @@
+{
+  "menus": [
+    {
+      "title": "Top Posts",
+      "items": [
+        { "title": "Link Title", "link": "/dest" },
+        { "title": "Link Title", "link": "/dest" },
+        { "title": "Link Title", "link": "/dest" },
+        { "title": "Link Title", "link": "/dest" }
+      ]
+    },
+    {
+      "title": "Key Pages",
+      "items": [
+        { "title": "Link Title", "link": "/dest" },
+        { "title": "Link Title", "link": "/dest" },
+        { "title": "Link Title", "link": "/dest" },
+        { "title": "Link Title", "link": "/dest" }
+      ]
+    }
+  ]
+}

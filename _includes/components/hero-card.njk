@@ -1,0 +1,17 @@
+<div class="card">
+  <div class="card-body">
+    {%- for menu in hero_card.menus -%}
+      <h5 class="card-title">{{ menu.title }}</h5>
+      
+      <div class="row">
+        {%- for link in menu.items -%}
+          <div class="col-md-4">
+            <a class="card-link" href="{{ link.link }}">{{ link.title }}</a>
+          </div>
+        {%- endfor -%}
+      </div>
+      
+      <br />
+    {%- endfor -%}
+  </div>
+</div>

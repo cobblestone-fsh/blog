@@ -1,0 +1,21 @@
+{
+  "title": "Cobblestone Prude",
+  "url": "https://example.com/",
+  "language": "en",
+  "description": "Don't ask me to do nothin.",
+  "feed": {
+    "subtitle": "Don't ask me to do nothin.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Cobblestone Prude",
+    "email": "cobblestone.age.prude@gmail.com",
+    "url": "https://example.com/about-me/"
+  }
+}

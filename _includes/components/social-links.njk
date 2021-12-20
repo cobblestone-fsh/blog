@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-md bg-secondary py-1">
+    <div class="collapse navbar-collapse">
+        <ul class="navbar-nav mr-auto">
+            {%- for social_entry in social.social -%}
+                <li class="nav-item mx-1">
+                    <a href="{{social_entry.url}}" style="text-decoration: none;">
+                        <img src="/img/social/{{social_entry.icon}}" width="16px">
+                    </a>
+                </li>
+            {%- endfor -%}
+        </ul>
+    </div>
+</nav>
